@@ -1,4 +1,4 @@
-# chamberlin-gate.com — placeholder site
+# chamberlingate.com — placeholder site
 
 A single static placeholder page for **Chamberlin Gate**, served via GitHub Pages.
 
